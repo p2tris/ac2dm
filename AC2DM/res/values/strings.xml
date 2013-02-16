@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Mobile Host Notification</string>
+    <string name="app_name">SroidClient</string>
+    <string name="welcome">"Ready to receive Notifications"</string>
+</resources>
